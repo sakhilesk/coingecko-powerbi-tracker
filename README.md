@@ -1,4 +1,4 @@
-<div align="center">
+readme_content = """<div align="center">
   <h1 align="center">Live Cryptocurrency Market Analytics Dashboard</h1>
   <p align="center">
     <strong>An End-to-End Power BI Data Engineering & Business Intelligence Project</strong>
@@ -9,6 +9,8 @@
       <img src="https://img.shields.io/badge/View_Live_Dashboard-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Live Dashboard" />
     </a>
   </p>
+  <br />
+  <img src="crypto-market-dashboard-screenshot.png" alt="Crypto Market Dashboard Screenshot" width="850" />
 </div>
 
 <hr />
