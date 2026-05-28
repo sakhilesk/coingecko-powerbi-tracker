@@ -1,4 +1,4 @@
-readme_content = <div align="center">
+<div align="center">
   <h1 align="center">Live Cryptocurrency Market Analytics Dashboard</h1>
   <p align="center">
     <strong>An End-to-End Power BI Data Engineering & Business Intelligence Project</strong>
