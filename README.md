@@ -10,7 +10,7 @@ readme_content = """<div align="center">
     </a>
   </p>
   <br />
-  <img src="crypto-market-dashboard-screenshot.png" alt="Crypto Market Dashboard Screenshot" width="850" />
+  <img src="crypto market dashboard screenshot.png" alt="Crypto Market Dashboard Screenshot" width="850" />
 </div>
 
 <hr />
